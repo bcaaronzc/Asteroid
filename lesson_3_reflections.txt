@@ -5,3 +5,7 @@ I think when I want to share my project with someone else or when I want to work
 为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？
 
 始终保持同步有时可能会遇到一些网络延迟上的问题，不对啊…能始终同步不是挺好的嘛……
+
+说明Fork、克隆和分支之间的不同。何时使用某种功能而不是另一种？
+
+Fork 是 GitHub 提供的一种功能，可以将他人的代码库给自己使用
