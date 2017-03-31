@@ -9,3 +9,7 @@ I think when I want to share my project with someone else or when I want to work
 说明Fork、克隆和分支之间的不同。何时使用某种功能而不是另一种？
 
 Fork 是 GitHub 提供的一种功能，可以将他人的代码库给自己使用
+
+拥有远程分支的上次已知状态的副本（存储在本地）有何好处？
+
+可以判断各种合并的情况
